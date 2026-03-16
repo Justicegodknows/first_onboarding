@@ -1,0 +1,10 @@
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest cache
+.pytest_cache/
+
+# Generated onboarding profiles
+onboarding_*.json
